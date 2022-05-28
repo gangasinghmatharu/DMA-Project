@@ -6,8 +6,14 @@
   position:relative;
   display:block;
 }
-
-
+.github{
+  display: inline-block;
+  /* padding-left: 100px; */
+  margin-top:15px;
+  /* border: 10px solid #AAF0D1;
+  border-radius: 50%; */
+  float: right;
+}
 .headtext{
  color:rgb(51, 51, 51);
  font-family:'Playfair Display', serif;
@@ -36,7 +42,7 @@
 .headtext2:hover{
   box-shadow: inset 0 -1em #AAF0D1;
   text-decoration: none;
-  transition: .3s
+  transition: .3s;
   color:rgb(51,51,51);
 }
 .greytext{
