@@ -1,5 +1,7 @@
 # Black and White Image color Restorer using a Generative Adversarial Network
 
+Project Link: https://gangasinghmatharu.github.io/DMA-Project/
+
 ## Introduction
 Colorizing black and white pictures is one of the most intriguing uses of deep learning. Before the advent of GANs, researchers used vanilla neural networks to do this job, but the results were neither realistic nor convincing. In 2014, Ian Goodfellow came up with the notion of having two neural networks (Generator and Discriminator) fight against each other, similar to how the minimax algorithm works. This gave neural networks ability to generate photo-realistic images.
 
